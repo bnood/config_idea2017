@@ -1,0 +1,10 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="141.3058" />
+      <item value="139.1803" />
+    </ignoredBuildNumbers>
+    <option name="LAST_TIME_CHECKED" value="1492493099270" />
+    <option name="LAST_BUILD_CHECKED" value="IU-139.659" />
+  </component>
+</application>

@@ -1,0 +1,83 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop&#10;D:/IdeaProject/mpip-parent0.6.0&#10;D:/IdeaProject/mpip-parent0.6.0/mpip-gateway&#10;D:/IdeaProject/dubbo-admin-2.5.4-SNAPSHOT&#10;C:/Users/Administrator/Desktop/dubbo&#10;C:/Users/Administrator/Desktop/dubbo/dubbo-demo&#10;C:/Users/Administrator/Desktop/dubbox-dubbox-2.8.4&#10;C:/Users/Administrator/Desktop/testDubboxFileUpload&#10;C:/Users/Administrator/Desktop/testDubboFileSend&#10;C:/Program Files/Java/jdk1.7.0_17&#10;C:/Users/Administrator/Desktop/testSsmDubboxConsumer&#10;C:/Program Files/Java/jdk1.8.0_131&#10;C:/Users/Administrator/Downloads/dubbox-dubbox-2.8.4&#10;D:/IdeaProject/demo&#10;D:/BaiduNetdiskDownload/yt_project20170306/ytgame-manage&#10;D:/IdeaProject/zzg&#10;D:/IdeaProject&#10;D:/BaiduNetdiskDownload/yt_project20170306/ytgame-web&#10;D:/java/apache-tomcat-8.5.13&#10;C:/Users/Administrator/Desktop/taiwanxinguang/103543903790001.der&#10;D:/java/apache-maven-3.5.0&#10;C:/Users/Administrator/Desktop/counect-framework-cache&#10;C:/Users/Administrator/Desktop/counect-framework-base&#10;D:/java/SlikSvn/bin/svn.exe&#10;D:/java/TortoiseSVN/bin/TortoiseProc.exe&#10;D:/IdeaProject/mpip-gateway_0.4.0&#10;C:/Users/Administrator/Downloads/weixin-pay&#10;D:/BaiduNetdiskDownload/yt_project20170306/ytgame-service22222&#10;D:/java/Git/bin/git.exe&#10;D:/java/apache-tomcat-8.0.33" />
+    <property name="project.jdk.splitter" value="0.2" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 7.0.69" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10851872" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="introduce.variable.prefer.statements" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="SpringBeansModulesPanel[1]" value="0.12195122" />
+    <property name="SpringBeansModulesPanel[2]" value="0.13917884" />
+    <property name="SpringBeansModulesPanel[3]" value="0.16207455" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="export.settings.path" value="C:\Users\Administrator\Desktop\settings.jar" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="test_tree_console_proprtion" value="0.14852256" />
+    <property name="junit_statistics_table_columnsWidth0" value="75" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="junit_statistics_table_columnsWidth1" value="75" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="junit_statistics_table_columnsWidth2" value="75" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="junit_statistics_table_columnsWidth3" value="75" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="junit_statistics_table_columnsWidth4" value="75" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsWidth5" value="75" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="PLUGIN_FILTER" value="junit" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="last.imported.location" value="D:/IdeaProject/mpip-parent0.6.0" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="eclipse.project.dir" value="D:\IdeaProject\DOC" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10851872" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.12195122" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.13917884" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.16207455" />
+    <property name="AppServerDKsEditor.splitterProportion" value="0.3" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+    <property name="KEYMAP" value="back" />
+    <property name="JpaViewFrameworkProvider:Module[2]" value="0.1994018" />
+    <property name="ColorChooser.RecentColors" value="215-55-56-255,,,174-56-215-255,,,212-198-215-255,,,215-205-85-255,,,218-221-226-255,,,241-231-185-176,,,224-214-171-176,,,0-0-0-176,,,50-50-50-176,,,86-86-86-176,,,75-75-75-176,,,90-90-94-255,,,136-136-141-255,,,128-116-100-176,,,79-97-131-107,,,146-147-152-255,,,99-100-105-255,,,100-103-107-255,,,101-102-106-255,,,70-71-76-255" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="jsp&#10;&quot;New in 14&quot;" />
+    <property name="installed.kotlin.plugin.version" value="1.1.2-release-IJ2017.1-1" />
+    <property name="android-component-compatibility-check" value="1498527398792" />
+    <property name="file.gist.reindex.count" value="5952" />
+    <property name="selected.color.option.type" value="SCOPE_KEY_Tests" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JUnit.Splitter.Proportion" value="0.01394268" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+  </component>
+</application>

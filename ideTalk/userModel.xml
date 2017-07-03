@@ -1,0 +1,14 @@
+<users>
+  <myUsers class="set">
+    <user>
+      <myName>Administrator</myName>
+      <myGroup>ytgame-web</myGroup>
+      <myDisplayName>Administrator</myDisplayName>
+      <myCanAccessMyFiles>false</myCanAccessMyFiles>
+      <myTransportCode>P2P</myTransportCode>
+    </user>
+  </myUsers>
+  <myGroups class="set">
+    <string>ytgame-web</string>
+  </myGroups>
+</users>
